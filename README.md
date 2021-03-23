@@ -1,3 +1,16 @@
+# About the Build
+ 
+Do visit my project https://swift-chat-anirban99.netlify.app 
+     UserName: Monica Geller Bing
+     password: 123123
+ ## Please don't spam, keep it clean or else i would've to delete the spammed group.
+ This app supports inserting of files from your local storage, chatting, creating groups,
+ adding new members, viewing who read the delivered message with their profie icons beneath the
+ last message, green color for online and red for offline, with main authority to the admin(me).
+ 
+This project is created with React, Sockets, Chatengine.io, etc. 
+     
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
